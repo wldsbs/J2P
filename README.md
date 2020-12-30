@@ -4,14 +4,14 @@ Jump2Python 연습
 -----
 # 2장 자료형
 1. [숫자형](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_1.ipynb)
-2. 문자열 자료형  
-3. 리스트 자료형  
-4. 튜플 자료형  
-5. 딕셔너리 자료형  
-6. 집합 자료형  
-7. 불 자료형  
-8. 변수  
-9. 연습문제  
+2. [문자열 자료형](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_2.ipynb)  
+3. [리스트 자료형](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_3.ipynb)  
+4. [튜플 자료형](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_4.ipynb)  
+5. [딕셔너리 자료형](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_5.ipynb)  
+6. [집합 자료형](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_6.ipynb)  
+7. [불 자료형](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_7.ipynb)  
+8. [변수](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_8.ipynb)  
+9. [연습문제](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_practice.ipynb)  
 -----
 # 3장 제어문
 1. if 문  
