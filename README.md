@@ -14,10 +14,10 @@ Jump2Python 연습
 9. [연습문제](https://github.com/wldsbs/J2P/blob/main/ch02/ch02_practice.ipynb)  
 
 ## 3장 제어문
-1. if 문  
-2. while문  
-3. for문  
-4. 연습문제  
+1. [if 문](https://github.com/wldsbs/J2P/blob/main/ch03/ch03_1.ipynb)  
+2. [while문](https://github.com/wldsbs/J2P/blob/main/ch03/ch03_2.ipynb)  
+3. [for문](https://github.com/wldsbs/J2P/blob/main/ch03/ch03_3.ipynb)  
+4. [연습문제](https://github.com/wldsbs/J2P/blob/main/ch03/ch03_practice.ipynb)   
 
 ## 4장 프로그램 입출력
 1. 함수  
