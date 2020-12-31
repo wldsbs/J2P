@@ -23,7 +23,7 @@ Jump2Python 연습
 1. [함수](https://github.com/wldsbs/J2P/blob/main/ch04/ch04_1.ipynb)  
 2. [사용자 입출력](https://github.com/wldsbs/J2P/blob/main/ch04/ch04_2.ipynb)  
 3. [파일 읽고 쓰기](https://github.com/wldsbs/J2P/blob/main/ch04/ch04_3.ipynb)  
-4. 연습문제  
+4. [연습문제](https://github.com/wldsbs/J2P/blob/main/ch04/ch04_practice.ipynb)  
 
 ## 5장 파이썬 날개달기 
 1. 클래스  
