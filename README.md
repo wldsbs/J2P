@@ -21,8 +21,8 @@ Jump2Python 연습
 
 ## 4장 프로그램 입출력
 1. [함수](https://github.com/wldsbs/J2P/blob/main/ch04/ch04_1.ipynb)  
-2. 사용자 입출력  
-3. 파일 읽고 쓰기  
+2. [사용자 입출력](https://github.com/wldsbs/J2P/blob/main/ch04/ch04_2.ipynb)  
+3. [파일 읽고 쓰기](https://github.com/wldsbs/J2P/blob/main/ch04/ch04_3.ipynb)  
 4. 연습문제  
 
 ## 5장 파이썬 날개달기 
